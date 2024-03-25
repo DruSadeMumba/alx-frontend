@@ -1,0 +1,26 @@
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Colours */
+body {
+    color: #161616;
+}
+
+a {
+    color: #161616;
+}
+
+.card-category {
+    color: #D73953;
+}
+
+.section-tagline {
+    color: #D73953;
+}
+
+/* Display */
+.visually-hidden {
+    display: none;
+}
