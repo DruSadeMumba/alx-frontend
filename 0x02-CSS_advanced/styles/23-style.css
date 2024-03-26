@@ -327,13 +327,13 @@ ul.row {
 }
 
 .footer-address {
-    color: var(--color-white);
+    color: var(--text-color);
 }
 
 .social-link {
     display: block;
 }
 
-.social-link > svg {
+.social-link svg {
     fill: var(--color-white);
 }
